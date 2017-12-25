@@ -1,3 +1,3 @@
 # snow
 
-A random snow generator with gravity and wind physcis/
+A random snow generator with gravity and wind physics.
